@@ -1,2 +1,3 @@
-document.body.style.color = "#ffffff"
-document.body.style.backgroundColor="#3d03fc"
+document.body.style.color = "#02fa30"
+document.body.style.backgroundColor="#191a19"
+
